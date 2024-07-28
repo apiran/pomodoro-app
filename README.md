@@ -13,13 +13,13 @@ A simple Pomodoro timer application built with Python and Tkinter. This applicat
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/apiran/pomodoro-timer.git
+    git clone https://github.com/apiran/pomodoro-app.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd pomodoro-timer
+    cd pomodoro-app
     ```
 
 3. **Install the required dependencies:**
